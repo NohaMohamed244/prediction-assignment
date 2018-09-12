@@ -1,7 +1,7 @@
 ---
 title: "Prediction Assignment Writeup"
-author: "Tsung-Hsien Lin"
-date: "July 27, 2014"
+author: "Noha Mohamed"
+date: "Sep 12, 2018"
 output: html_document
 ---
 
